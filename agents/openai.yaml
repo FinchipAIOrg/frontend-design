@@ -1,0 +1,4 @@
+interface:
+  display_name: "Frontend Design"
+  short_description: "Design distinctive production-ready interfaces"
+  default_prompt: "Use $frontend-design to build a distinctive production-ready interface for this brief."
